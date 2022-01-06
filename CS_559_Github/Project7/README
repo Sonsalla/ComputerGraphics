@@ -1,0 +1,4 @@
+I added a metalic chrome texture to a cube to give it some depth and positioned the
+lighting to give it a nice shine across the object. I then have the camera position 
+roating around the cube along with the cube itself rotating to the shinning light 
+effect go around the entire cube.
